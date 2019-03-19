@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Demystify the Random Forest'
+date: 2019-03-19
+permalink: /posts/2013/03/Demystify_the_random_forest/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Machine Learning
+  - Python
+  - Data Science
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+The Post can be read [here](https://www.kaggle.com/akashram/demystify-the-random-forest).
