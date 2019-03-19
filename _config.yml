@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Everything Data Science | Akash Ramkumar"
+title                    : "Akash's Portfolio"
 title_separator          : "-"
 name                     : &name "Akash Ramkumar"
 description              : &description "personal description"
