@@ -1,5 +1,6 @@
 ---
 title: 'Descriptive Statistics'
+date: 2019-05-22
 permalink: /teaching/2019-desstats-1
 tags:
   - Descriptive Statistics
