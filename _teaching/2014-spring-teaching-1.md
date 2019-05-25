@@ -1,6 +1,5 @@
 ---
 title: "Descriptive Statistics"
-collection: teaching
 permalink: /teaching/ds
 date: 2019-05-21
 ---
