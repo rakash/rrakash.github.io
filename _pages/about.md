@@ -21,8 +21,8 @@ Thanks for Stopping By.
 
 This is my Personal Site containing lessons, posts on Data Science and Programming Primarily. 
 
-If you'd like to know about me, ![Click here](https://rakash.github.io/cv/)
+If you'd like to know about me, [Click here](https://rakash.github.io/cv/)
 
-If you'd like to read some posts, ![Click here](https://rakash.github.io/year-archive/)
+If you'd like to read some posts, [Click here](https://rakash.github.io/year-archive/)
 
-If you'd like to learn something, ![Click here](https://rakash.github.io/teaching/)
+If you'd like to learn something, [Click here](https://rakash.github.io/teaching/)
