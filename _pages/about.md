@@ -10,7 +10,7 @@ redirect_from:
 
 <style type="text/css">
   body {
-    background-color: #336655;
+    background-color: #98DDFD;
   }
 </style>
   
