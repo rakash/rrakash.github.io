@@ -15,7 +15,7 @@ redirect_from:
 </style>
 
 <style>
-    .page-footer {
+    page__footer {
         background-color: #98DDFD;
     }
 </style>
