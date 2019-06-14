@@ -21,7 +21,8 @@ redirect_from:
 About me:
 
 
-I am Akash and I currently work as a Data Science Consultant for [CDM SMITH](www.cdmsmith.com)
+
+I am Akash and I currently work as a Data Science Consultant for [CDM SMITH](https://www.cdmsmith.com)
 
 This is my Personal Site containing Lessons & Posts primarily on Data Science and Programming. 
 
