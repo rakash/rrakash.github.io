@@ -1,6 +1,6 @@
 ---
 title: 'Descriptive Statistics'
-permalink: /teaching/2019-desstats-1
+permalink: /teaching/desstats-1
 tags:
   - Descriptive Statistics
   - Python
