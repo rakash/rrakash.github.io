@@ -14,10 +14,10 @@ monitor total volume of sales for its different locations without any desire to 
 that information to make inferences about other businesses. 
 
 
+
 Key Concepts Underlying Descriptive Statistics
 ======
 [Concepts](https://www.google.com)
-
 
 Univariate Analysis
 ======
