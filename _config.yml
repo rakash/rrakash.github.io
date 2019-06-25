@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Akash Ramkumar"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Akash Ramkumar"
 description              : &description "personal description"
