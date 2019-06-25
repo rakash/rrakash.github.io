@@ -13,6 +13,12 @@ P.blocktext {
   max-width: 60em
 }
 
+p {
+  border: 0x solid;
+  border-image-width: 0px;
+  padding: 0px;
+}
+
 /* for bulleted list */
 li.shats {
   margin-left: auto;
