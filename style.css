@@ -40,8 +40,18 @@ body, html {
 
 body {
   display: inline-flex;
+  background-image: url("https://cdn.wallpapersafari.com/17/62/Mw5A6y.jpg");	
 }
-
+ 
+.bg {
+  
+   background-image: url("https://cdn.wallpapersafari.com/17/62/Mw5A6y.jpg");	
+   height: 100%; 
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+	
 .jumbotron {
   display: flex;
   justify-content: center;
