@@ -1,0 +1,100 @@
+body {
+  /* background-color: blue; */
+  font-family: 'Roboto Mono', monospace;
+}
+
+P.blocktext {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60em
+}
+
+/* for bulleted list */
+li.shats {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60em
+}
+
+.bigger {
+  font-size:400%;
+}
+
+
+
+body, html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: inline-flex;
+}
+
+.jumbotron {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 100%;
+  margin-bottom: 0;
+}
+
+.box{
+  border-radius: 25px;
+  width: 1000px;
+  padding: 40px;
+  margin: auto;
+  margin-top: 5%;
+}
+
+.trigger {
+  width: 200px;
+  height: 200px;
+  border: 20px solid #999;
+  background: #ddd;
+}
+
+
+img.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+}
+
+.budr{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  /* transform: translate(700px, 650px); */
+}
+
+#budr {
+		-webkit-animation: rotation 2s infinite linear;
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(-359deg);
+		}
+}
