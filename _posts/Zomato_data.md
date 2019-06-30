@@ -6,7 +6,7 @@ tags:
   - API
   - Python
   - Analysis
-  ---
+---
 
-Data Extraction from API is important with increase in web data. 
-[This notebook](https://nbviewer.jupyter.org/github/rakash/Posts/blob/master/Extracting%20Data%20from%20Zomato.ipynb) shows how to extract data from Zomato's API[here]
+Data Extraction from API is important with the increase in web data. 
+[This notebook](https://nbviewer.jupyter.org/github/rakash/Posts/blob/master/Extracting%20Data%20from%20Zomato.ipynb) shows how to extract data from Zomato's API.
