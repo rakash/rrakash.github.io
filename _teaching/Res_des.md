@@ -1,6 +1,6 @@
 ---
 title: 'Research Design'
-permalink: /teaching/resdes-1
+permalink: /teaching/resdes
 tags:
   - Research Design
   - Statistics
