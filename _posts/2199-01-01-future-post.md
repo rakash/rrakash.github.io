@@ -8,4 +8,6 @@ tags:
   - Data Science
 ---
 
-The Post can be read [here](https://www.kaggle.com/akashram/demystify-the-random-forest).
+Want to know how predictions are made by Machine learning algorithms like decision trees and Random Forest? 
+
+Demystify them [here](https://medium.com/@akash9129/demystify-the-random-forest-part-1-fe6c21d060fd).
