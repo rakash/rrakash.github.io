@@ -19,5 +19,5 @@ The two main types of research design are;
 
 
 1. [Experimental Study](https://www.google.com)
-2. [Observational Study](https://nbviewer.jupyter.org/github/rakash/Observational_Studies/blob/master/Observational%20Study%20-%20%20A%20Primer.ipynb?flush_cache=true)
+2. [Observational Study](https://nbviewer.jupyter.org/github/rakash/Observational_Studies/blob/master/Observational%20Study%20-%20%20A%20Primer%20-%201.ipynb)
 
