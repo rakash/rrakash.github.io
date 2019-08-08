@@ -24,6 +24,7 @@ Work experience
 
  
 * GROUPON -  July 2016 – May 2018
+
   • Prediction of Tickets Resolved (In-House): Predict the number of tickets that will be resolved by a customer service agent. Resulted in efficient allocation of customer agents to various In-house teams. Methodologies- Statistical and Machine Learning Algorithms; Tools used – SQL, Python, Tableau.<br/>
   • Classification of Merchants: Classify/Segment merchants into categories. Resulted in Merchant engagement team using the categories to effectively come up with discounts for customers/merchants. Tools used – Hadoop-Hive, Sqoop to transfer data, SQL, Tableau and R. Used K-means Clustering  to segment the merchants.<br/>
   • NLP/Customer Sentiment Analysis: The objective of this project was to extract the frequently asked questions asked by users on groupon.com/customer_support, particularly on the 'contact-us' channel and understand the major questions asked along with sentiment analysis on the comments made.
@@ -49,7 +50,7 @@ Work experience
 
   
 * INFORMATION DYNAMICS    -  Aug 2012 – Dec 2013  
-  * Was involved in developing data-centric applications for the Shipping Corporation of India.
+  * Was involved in developing data-centric applications for the Shipping Corporation of India.<br/>
   • Used SQL, PL/SQL (Procedures, Packages, Triggers and other database -oriented actions) queries and programs in day-to-day activities and maintained the database services that supported the front-end applications developed using Oracle developer suite.
 
   
