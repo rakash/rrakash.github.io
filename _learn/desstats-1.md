@@ -25,5 +25,8 @@ Univariate Analysis
 
 Multivariate Analysis
 ======
-[Post2]
+
+[Multivariate Distributions in Python](https://nbviewer.jupyter.org/github/rakash/images/blob/master/2%20-%20Multivariate_Distributions.ipynb)
+
+[Selecting Dataframes from Multivariate Data](https://nbviewer.jupyter.org/github/rakash/images/blob/master/1%20-%20Multivariate_Data_Selection.ipynb)
 
