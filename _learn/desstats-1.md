@@ -17,7 +17,7 @@ that information to make inferences about other businesses.
 
 Key Concepts Underlying Descriptive Statistics
 ======
-[Concepts](https://www.google.com)
+[Concepts](https://www.google.in)
 
 Univariate Analysis
 ======
