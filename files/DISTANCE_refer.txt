@@ -1,0 +1,1 @@
+DISTANCE.ipynb file was taken from https://cmry.github.io/notes/euclidean-v-cosine
