@@ -21,7 +21,7 @@ Key Concepts Underlying Descriptive Statistics
 
 Univariate Analysis
 ======
-[Descriptive analysis on Airbnb](https://www.google.com)
+[Descriptive analysis on Airbnb](https://www.kaggle.com/akashram/descriptive-statistics-on-berlin-airbnb-data)
 
 Heading 2
 ======
