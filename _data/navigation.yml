@@ -1,7 +1,8 @@
 # main links links
 main:
   - title: "Posts"
-    url: /year-archive/
+    url: /the-data-journo/
+    #https://rakash.github.io/year-archive/
   
   - title: "Learn"
     url: /teaching/    
