@@ -1,3 +1,9 @@
+---
+title: 'Learning How to Learn'
+date: 2022-04-15
+tags:
+  - Learning
+---
 
 ![download.jpeg](attachment:download.jpeg)
 
@@ -17,6 +23,7 @@ If you haven't done the course, read on to grasp the important points from the c
 
 
 4. [Renaissance Learning and Unlocking Your Potential](#ru)
+
 
 <a class="anchor" id="wl"></a>
 
