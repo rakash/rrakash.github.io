@@ -5,7 +5,7 @@ tags:
   - Learning
 ---
 
-![](https://github.com/rakash/Other-Files/blob/master/download.jpeg?raw=true)
+![](/images/download.jpeg)
 
 This is one of the important Online courses you will ever take, as this deals with how to learn anything! 
 
