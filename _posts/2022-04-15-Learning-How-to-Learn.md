@@ -11,7 +11,7 @@ This is one of the important Online courses you will ever take, as this deals wi
 
 If you haven't done the course, read on to grasp the important points from the course.
 
-### Contents
+## Contents
 
 1. [What is Learning?](#wl)
 
@@ -27,25 +27,25 @@ If you haven't done the course, read on to grasp the important points from the c
 
 <a class="anchor" id="wl"></a>
 
-### Week 1: What is Learning?
+## Week 1: What is Learning?
 
 
-#### Brain Facts:
+### Brain Facts:
 
 Cells of the nervous system are called neurons. Information from one neuron flows to another neuron across a synapse. Human brain has a million billion synapses.
 
 Your brain creates synapses whenever you learn something new. Sleeping helps "update" your brain cells. Literally.
 
 
-#### Why do we procrastinate (scientifically):
+### Why do we procrastinate (scientifically):
 
-##### Problem:
+#### Problem:
 
 Learning a new thing or doing something you would rather not do can be stressing. This can cause anxiety at first. This activates the area associated with pain in the brain.
 
 Your brain looks for a way to stop that negative feeling by switching your attention to something else more pleasant.
 
-#### Solution:
+### Solution:
 
 The trick is to just start. Researchers discovered that not long after people start actually working out what they didn’t like, that neuro-discomfort disappeared.
 
@@ -53,11 +53,11 @@ Remember that the better you get at something, the more enjoyable it can become.
 
 Consider using the pomodoro technique.
 
-#### Learning hard and abstract things:
+### Learning hard and abstract things:
 
 The more abstract something is, the more important it is to practice to create and strengthen neural connections to bring the abstract ideas to reality for you.
 
-#### Summary 
+### Summary 
 
 1. There are two modes of thinking:
 
@@ -82,9 +82,9 @@ The more abstract something is, the more important it is to practice to create a
 <a class="anchor" id="ck"></a>
 
 
-### Week 2 : Chunking
+## Week 2 : Chunking
 
-#### Chunks:
+### Chunks:
 
 Pieces of information, neuroscientifically speaking, bond together through use and meaning. They can get bigger and more complex, but at the same time, they are single easy to access items that can fit into the slot of the working memory.
 
@@ -133,9 +133,9 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 <a class="anchor" id="pm"></a>
 
 
-### Week 3: Procrastination and Memory
+## Week 3: Procrastination and Memory
 
-#### Procrastination:
+### Procrastination:
 
 * The routine, habitual responses your brain falls into when you try to do something hard or unpleasant. Focusing only on making the present moment feels better.
 
@@ -148,14 +148,14 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * You want to avoid cramming which doesn’t build solid neural structures, by putting the same amount into your learning, and spacing it over a long period by starting earlier.
 
 
-#### First time learning something:
+### First time learning something:
 
 * The first time you do something the deluge of information coming at you would make the job seem almost impossibly difficult. But, once you've chunked it, it will be simple.
 
 * At first, it's really hard, later it's easy. It becomes like a habit. Ex: Driving for the first time.
 
 
-#### Habits:
+### Habits:
 
 * Neuro-scientifically speaking, chunking is related to habit.
 
@@ -164,7 +164,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Habits can be good or bad, brief or long.
 
 
-#### Habits Parts:
+### Habits Parts:
 
 1. The cue: The trigger that launches you into zombie mode (habitual routine).
 
@@ -193,7 +193,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
     - Joining a student community helps, either online or in real life.
     - Trust your system. You have to feel happy and worry-free when you are resting.
             
-#### Weekly/Daily list:
+### Weekly/Daily list:
 
 * Researchers showed that writing your daily list the evening before helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory.
 
@@ -206,7 +206,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Have a backup plan for when you will still procrastinate.
 
 
-#### Focus on Process:
+### Focus on Process:
 
 * You should realize that it’s perfectly normal to start a learning session with a negative feeling even if you like the subject. It’s how you handle those feelings that matters.
 
@@ -214,7 +214,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Solution: Focus on the process, not the product. The product is what triggers the pain that causes you to procrastinate. Instead of saying "I will solve this task today", put your best effort for a period of time continuously over the days.
 
 
-#### Memory:
+### Memory:
 
 * Use your visual memory to remember things.
 
@@ -231,7 +231,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Handwriting helps you deeply convert what you are trying to learn into neural memory structures.
 
 
-#### Memory Techniques:
+### Memory Techniques:
 
 * Create meaningful groups and abbreviations.
 
@@ -248,10 +248,10 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 <a class="anchor" id="ru"></a>
 
 
-### Week 4: Renaissance Learning and Unlocking Your Potential
+## Week 4: Renaissance Learning and Unlocking Your Potential
 
 
-#### You should know:
+### You should know:
 
 
 * Exercising is by far more effective than any drug to help you learn better. It helps new neurons survive.
@@ -262,7 +262,8 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 
 * You learn complex concepts by trying to make sense out of the information you perceive. Not by having someone else telling it to you.
 
-#### Metaphors:
+
+### Metaphors:
 
 
 * Metaphors and analogies are very helpful, not only to memorize, but to also understand different concepts.
@@ -271,7 +272,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * It is often helpful to pretend that you are the concept you’re trying to understand.
 
 
-#### Intelligence:
+### Intelligence:
 
 
 * Intelligence does matter. Being smart usually equate to having a large working memory (more than just four slots).
@@ -289,7 +290,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Take pride in the qualities you excel at. Tune people out if they try to demean your efforts.
 
 
-#### Right hemisphere:
+### Right hemisphere:
 
 
 * Helps us put our work into the big picture perspective and does reality checks.
@@ -298,7 +299,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * When you go through a homework or test questions and don’t go back to check your work, you’re acting like a person who’s refusing to use parts of his brain.
 
  
-#### Left hemisphere:
+### Left hemisphere:
 
 
 * Interprets the world for us but with a tendency for rigidity, dogmatism and egocentricity.
@@ -307,7 +308,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * May lead to overconfidence. Ex: believing dismissively that your answers are corrects.
 
  
-#### Best practices:
+### Best practices:
 
 
 * Always step back and recheck to takes advantages of abilities of both-hemispheres interactions.
@@ -328,7 +329,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Don’t fool yourself. Don’t blindly believe in your intellectual abilities. Having a team can bring those projections down.
 
 
-#### Test Checklist:
+### Test Checklist:
 
 
 * Did you make a serious effort to understand the text? If you had a study guide, did you go through it?
@@ -349,7 +350,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Did you sleep well the night before the test?
 
  
-#### Test Taking Technique:
+### Test Taking Technique:
 
 
 * Take a quick look at the test when it’s handed to you to get a sense of what it involves.
@@ -361,7 +362,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Turn next to an easy problem. Solves what you can, then move back to a hard one. This allows the different part of your brain to work simultaneously on different thoughts.
 
 
-#### Taking Test Tips:
+### Taking Test Tips:
 
 
 * Being Stressed before a test is normal. The body puts ups out chemicals when it’s under stress. How you interpret the body reaction to those chemicals makes all the difference.
