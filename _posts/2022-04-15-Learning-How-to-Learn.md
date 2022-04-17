@@ -382,6 +382,10 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 
 * Double check your answers. Look away, shift your attention, and then recheck.
 
+
+I'm sure applying the techniques discussed above would bring in lots of benefits to your learning.
+
+
 ---------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------
