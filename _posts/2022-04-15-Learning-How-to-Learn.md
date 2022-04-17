@@ -39,7 +39,7 @@ Your brain creates synapses whenever you learn something new. Sleeping helps "up
 
 ### Why do we procrastinate (scientifically):
 
-#### Problem:
+### Problem:
 
 Learning a new thing or doing something you would rather not do can be stressing. This can cause anxiety at first. This activates the area associated with pain in the brain.
 
