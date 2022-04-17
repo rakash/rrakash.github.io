@@ -7,7 +7,7 @@ tags:
 
 ![](/images/download.jpeg)
 
-This is one of the important Online courses you will ever take, as this deals with how to learn anything! 
+[This is one](https://www.coursera.org/learn/learning-how-to-learn) of the important Online courses you will ever take, as this deals with how to learn anything! 
 
 If you haven't done the course, read on to grasp the important points from the course.
 
