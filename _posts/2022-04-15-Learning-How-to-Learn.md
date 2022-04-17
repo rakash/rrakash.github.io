@@ -62,6 +62,7 @@ The more abstract something is, the more important it is to practice to create a
 1. There are two modes of thinking:
 
     Focused mode: Concentrating on things that are usually familiar.
+    
     Diffused mode: A relaxed mode of thinking "your thoughts are free to wander".
 
 2. When you don’t desire doing/learning something, go through it and just start. The discomfort goes away and, in the long term, this will lead to satisfaction.
@@ -120,7 +121,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
  
 **Mix up the problems (Interleaving)** from different chapters. This is helpful to create connections between your chunks. It can make your learning a bit more difficult, but it helps you learn more deeply. Interleaving is very important. It is where you leave the world of practice and repetition, and begin thinking more independently.
 
-#### Don’ts:
+### Don’ts:
 
 * Highlighting too much and creating maps are often ineffective without recalling.
 
