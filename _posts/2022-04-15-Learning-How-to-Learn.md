@@ -51,7 +51,7 @@ The trick is to just start. Researchers discovered that not long after people st
 
 Remember that the better you get at something, the more enjoyable it can become.
 
-Consider using the pomodoro technique.
+Consider using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 ### Learning hard and abstract things:
 
