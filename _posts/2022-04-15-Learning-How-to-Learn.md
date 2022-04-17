@@ -1,5 +1,5 @@
 ---
-title: 'Learning How to Learn'
+title: 'Learning How to Learn Anything '
 date: 2022-04-15
 tags:
   - Learning
