@@ -30,15 +30,14 @@ If you haven't done the course, read on to grasp the important points from the c
 ### Week 1: What is Learning?
 
 
-
-Brain Facts:
+#### Brain Facts:
 
 Cells of the nervous system are called neurons. Information from one neuron flows to another neuron across a synapse. Human brain has a million billion synapses.
 
 Your brain creates synapses whenever you learn something new. Sleeping helps "update" your brain cells. Literally.
 
 
-##### Why do we procrastinate (scientifically):
+#### Why do we procrastinate (scientifically):
 
 ##### Problem:
 
@@ -46,7 +45,7 @@ Learning a new thing or doing something you would rather not do can be stressing
 
 Your brain looks for a way to stop that negative feeling by switching your attention to something else more pleasant.
 
-##### Solution:
+#### Solution:
 
 The trick is to just start. Researchers discovered that not long after people start actually working out what they didn’t like, that neuro-discomfort disappeared.
 
@@ -54,14 +53,11 @@ Remember that the better you get at something, the more enjoyable it can become.
 
 Consider using the pomodoro technique.
 
- 
-##### Learning hard and abstract things:
+#### Learning hard and abstract things:
 
 The more abstract something is, the more important it is to practice to create and strengthen neural connections to bring the abstract ideas to reality for you.
 
-
-
-##### Summary 
+#### Summary 
 
 1. There are two modes of thinking:
 
@@ -84,6 +80,7 @@ The more abstract something is, the more important it is to practice to create a
 6. It was shown that exercising and/or being in a rich social environment helps your brain produce new neurons. Don’t lock yourself in your room. Stay active and spare time for exercise (including general physical activities) and friends daily.
 
 <a class="anchor" id="ck"></a>
+
 
 ### Week 2 : Chunking
 
@@ -123,9 +120,6 @@ This concept is called Transfer; a chunk you have mastered in one area can often
  
 **Mix up the problems (Interleaving)** from different chapters. This is helpful to create connections between your chunks. It can make your learning a bit more difficult, but it helps you learn more deeply. Interleaving is very important. It is where you leave the world of practice and repetition, and begin thinking more independently.
 
-
-
- 
 #### Don’ts:
 
 * Highlighting too much and creating maps are often ineffective without recalling.
@@ -141,7 +135,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 
 ### Week 3: Procrastination and Memory
 
-##### Procrastination:
+#### Procrastination:
 
 * The routine, habitual responses your brain falls into when you try to do something hard or unpleasant. Focusing only on making the present moment feels better.
 
@@ -152,7 +146,6 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Procrastination shares features with addiction. At first, it leads you to think that if you study too early you’ll forget the material. Then, when the class is ahead of you, it leads you to think that you are inadequate or that the subject is too hard.
 
 * You want to avoid cramming which doesn’t build solid neural structures, by putting the same amount into your learning, and spacing it over a long period by starting earlier.
-
 
 
 #### First time learning something:
@@ -199,11 +192,8 @@ This concept is called Transfer; a chunk you have mastered in one area can often
     - Example: You might feel like you’ll never be able to change the habit of studying late. This is not true. You can actually rewire your brain
     - Joining a student community helps, either online or in real life.
     - Trust your system. You have to feel happy and worry-free when you are resting.
-    
-    
-    
+            
 #### Weekly/Daily list:
-
 
 * Researchers showed that writing your daily list the evening before helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory.
 
@@ -214,7 +204,6 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Take notes about what works and what doesn’t.
 
 * Have a backup plan for when you will still procrastinate.
-
 
 
 #### Focus on Process:
@@ -242,9 +231,7 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 * Handwriting helps you deeply convert what you are trying to learn into neural memory structures.
 
 
-
 #### Memory Techniques:
-
 
 * Create meaningful groups and abbreviations.
 
@@ -260,7 +247,9 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 
 <a class="anchor" id="ru"></a>
 
+
 ### Week 4: Renaissance Learning and Unlocking Your Potential
+
 
 #### You should know:
 
@@ -273,7 +262,6 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 
 * You learn complex concepts by trying to make sense out of the information you perceive. Not by having someone else telling it to you.
 
-
 #### Metaphors:
 
 
@@ -281,7 +269,6 @@ This concept is called Transfer; a chunk you have mastered in one area can often
 
 
 * It is often helpful to pretend that you are the concept you’re trying to understand.
-
 
 
 #### Intelligence:
