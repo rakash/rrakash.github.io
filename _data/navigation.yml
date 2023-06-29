@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Blog"
-    url: http://blog.datagyan.co.in/
+    url: /blog/
     #https://rakash.github.io/year-archive/
   
   - title: "Learn"
